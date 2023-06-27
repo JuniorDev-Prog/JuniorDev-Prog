@@ -1,5 +1,5 @@
 ### Olá Mundo! 👋 Eu sou Junior Dev Prog.🤓🤓
-   [![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](716397773435437056)
 - 🔭 Estou atualmente a trabalhar em  Projetos Pessoas.
 - 🌱 Estou  Estudando Logica de Programação, HTML, CSS, JavaScripit HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC, Wordpress, PHP7, React, ----- 🌱 Kotlin , NodeJs, Flutter, Firebase, android studio, Java, Angular, VueJs, TypeScript, C#, C, C++.
 - 👯 Estou a procurar Amigos para Troca Experiencias em Tecnologia.
