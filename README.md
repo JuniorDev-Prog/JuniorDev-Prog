@@ -31,10 +31,8 @@
    [![behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/juniormoura17)
    [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/uLTKoygKn3R94nFyUu2g5m/FigJam-basics?type=whiteboard&node-id=0%3A1&t=Sv9Jp7fQVz7lOiqd-1)
    [![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAFgru27u6c/91p0TdIY8QxvqQWsIB6hIA/edit?utm_content=DAFgru27u6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-<div style="display: inline_block">
-  <img align="center" alt="Visual_Studio" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+[![adobe xp](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6")](https://helpx.adobe.com/br/support/xd.html)
 
-   
 
    ## Treinamento de Code
    
