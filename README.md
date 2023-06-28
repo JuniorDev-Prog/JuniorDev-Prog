@@ -120,6 +120,13 @@
    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
      <img align="center" alt="nodejs" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
      <br><br/>
+     
+## 🚀 Frase que eu Levo!
+
+<p>"Desperte o seu talento como programador e descubra um universo de oportunidades ilimitadas, onde a sua criatividade e habilidades podem dar vida a projetos inovadores, impactantes e transformadores."</p>
+
+
+     
 
 
 
