@@ -45,7 +45,7 @@
    
       
 - 🔭 Estou atualmente a trabalhar em  Projetos Pessoas.
-- 🌱 Estou  Estudando Logica de Programação, HTML, CSS, JavaScripit HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC, Wordpress, PHP7, React,
+- 🌱 Estou  Estudando, Engenheiro front-End com as linguagem de programção HTML, CSS, JavaScripit HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC, Wordpress, PHP7, React,
 - 🧠  Kotlin , NodeJs, Flutter, Firebase, android studio, Java, Angular, VueJs, TypeScript, C#, C, C++
 - 👯 Estou a procurar Amigos para Troca Experiencias em Tecnologia.
 - 🤔 “O sucesso é um péssimo professor. Ele seduz as pessoas inteligentes a pensar que não podem perder.” 🏆
